@@ -11,7 +11,7 @@ const quoteID = function getRandomInt(min, max) {
 const getFrasesMotivacionais = function () {
   return new Promise((resolve, reject) => {
     const request = https.get(
-      'https://raw.githubusercontent.com/joelgarciajr84/alexa-frases-inspiracao/master/quotes.json',
+      'https://raw.githubusercontent.com/joelgarciajr84/alexa-skill-frases-inspiracao/master/quotes.json',
       (response) => {
         response.setEncoding('utf8');
 

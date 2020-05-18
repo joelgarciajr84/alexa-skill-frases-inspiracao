@@ -11,7 +11,7 @@ const quoteID = function getRandomInt(min, max) {
 const getFrasesMotivacionais = function () {
   return new Promise((resolve, reject) => {
     const request = https.get(
-      'https://raw.githubusercontent.com/joelgarciajr84/alexa-skill-frases-inspiracao/master/quotes.json',
+      'https://raw.githubusercontent.com/joelgarciajr84/alexa-frases-inspiracao/master/quotes.json',
       (response) => {
         response.setEncoding('utf8');
 
@@ -44,17 +44,57 @@ const getFrasesMotivacionais = function () {
   });
 };
 
+
 const LaunchRequestHandler = {
+    canHandle(handlerInput) {
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
+    },
+    handle(handlerInput) {
+        const speakOutput = 'Olá! Posso te ajudar a se inspirar?';
+        return handlerInput.responseBuilder
+            .speak(speakOutput)
+            .reprompt(speakOutput)
+            .getResponse();
+    }
+};
+
+const justGoIntentHandler = {
+    
   canHandle(handlerInput) {
-    return handlerInput.requestEnvelope.request.type === 'LaunchRequest';
+    return (
+      Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest' &&
+      Alexa.getIntentName(handlerInput.requestEnvelope) === 'justGoIntent'
+    );
   },
-  async handle(handlerInput) {
+  
+   async handle(handlerInput) {
+    const shouldRepeat = 'espero que tenha ajudado, gostaria de ouvir mais?';
     const quotes = JSON.parse(await getFrasesMotivacionais());
     const id = quoteID(0, quotes.length);
-    const quoteToSay = `${quotes[id].quote} de ${quotes[id].author}`;
-    return handlerInput.responseBuilder.speak(quoteToSay).getResponse();
+    const quoteToSay = `${quotes[id].quote}. frase de  ${quotes[id].author}. ${shouldRepeat}`;
+    return handlerInput.responseBuilder.speak(quoteToSay).reprompt(quoteToSay).getResponse();
   },
 };
+
+const noGoIntentHandler = {
+  canHandle(handlerInput) {
+    return (
+      Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest' &&
+      Alexa.getIntentName(handlerInput.requestEnvelope) === 'noGoIntent'
+    );
+  },
+  handle(handlerInput) {
+    const speakOutput = 'ok, fique bem, até mais!';
+    return (
+      handlerInput.responseBuilder
+        .speak(speakOutput)
+        .getResponse()
+    );
+  },
+};
+
+
+
 
 const HelpIntentHandler = {
   canHandle(handlerInput) {
@@ -64,7 +104,7 @@ const HelpIntentHandler = {
     );
   },
   handle(handlerInput) {
-    const speakOutput = 'You can say hello to me! How can I help?';
+    const speakOutput = 'Estou aqui para te ajudar a se inspirar. Se quiser ouvir algo que possa ajudar diga sim, caso contrário basta dizer não. Posso te ajudar a se inspirar? ';
 
     return handlerInput.responseBuilder
       .speak(speakOutput)
@@ -72,6 +112,8 @@ const HelpIntentHandler = {
       .getResponse();
   },
 };
+
+
 const CancelAndStopIntentHandler = {
   canHandle(handlerInput) {
     return (
@@ -141,12 +183,11 @@ const ErrorHandler = {
   },
 };
 
-// The SkillBuilder acts as the entry point for your skill, routing all request and response
-// payloads to the handlers above. Make sure any new handlers or interceptors you've
-// defined are included below. The order matters - they're processed top to bottom.
 exports.handler = Alexa.SkillBuilders.custom()
   .addRequestHandlers(
     LaunchRequestHandler,
+    justGoIntentHandler,
+    noGoIntentHandler,
     HelpIntentHandler,
     CancelAndStopIntentHandler,
     SessionEndedRequestHandler,

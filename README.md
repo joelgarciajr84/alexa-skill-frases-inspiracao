@@ -10,7 +10,7 @@ Tente, basta dizer: "Alexa, preciso de inspiração"
 Esta Skill contém conteúdo dinâmico.
 Nome de acionamento: preciso de inspiração
 
-##Idiomas compatíveis
+## Idiomas compatíveis
 1. português (BR)
 
 ## Avaliação de clientes

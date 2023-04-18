@@ -1,226 +1,256 @@
-[
-       {
-              "quote": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias.",
-              "author": "Desconhecido"
-       },
-       {
-              "quote": "Não é o que você faz pelos seus filhos, mas o que você os ensinou a fazer por si mesmos, que os tornará seres humanos bem-sucedidos.",
-              "author": "Ann Landers"
-       },
-       {
-              "quote": "Se você deseja que seus filhos se saiam bem, gaste o dobro de tempo com eles e metade do dinheiro.",
-              "author": "Abigail Van Buren"
-       },
-       {
-              "quote": "Construa seus próprios sonhos, ou alguém o contratará para construir os deles.",
-              "author": "Farrah Gray"
-       },
-       {
-              "quote": "As batalhas que contam não são as medalhas de ouro. As lutas dentro de si as batalhas invisíveis dentro de todos nós é onde estão.",
-              "author": "Jesse Owens"
-       },
-       {
-              "quote": "A educação custa dinheiro. Mas o mesmo acontece com a ignorância.",
-              "author": "Sir Claus Moser"
-       },
-       {
-              "quote": "Aprendi ao longo dos anos que, quando se decide, isso diminui o medo.",
-              "author": "Rosa Parks"
-       },
-       {
-              "quote": "Não importa a velocidade com que você vai, desde que não pare.",
-              "author": "Confúcio"
-       },
-       {
-              "quote": "Se você olhar para o que tem na vida, sempre terá mais. Se você olhar para o que não tem na vida, nunca terá o suficiente.",
-              "author": "Oprah Winfrey"
-       },
-       {
-              "quote": "Lembre-se de que não conseguir o que deseja às vezes é um maravilhoso golpe de sorte.",
-              "author": "Dalai Lama"
-       },
-       {
-              "quote": "Você não pode usar a criatividade. Quanto mais você usa, mais você tem.",
-              "author": "Maya Angelou"
-       },
-       {
-              "quote": "Sonhe alto e ouse falhar.",
-              "author": "Norman Vaughan"
-       },
-       {
-              "quote": "Nossas vidas começam a terminar no dia em que ficamos em silêncio sobre as coisas que importam.",
-              "author": "Martin Luther King Jr."
-       },
-       {
-              "quote": "Faça o que puder, onde estiver, com o que tiver.",
-              "author": "Teddy Roosevelt"
-       },
-       {
-              "quote": "Se você fizer o que sempre fez, obterá o que sempre conseguiu",
-              "author": "Tony Robbins"
-       },
-       {
-              "quote": "Sonhar, afinal, é uma forma de planejamento.",
-              "author": "Gloria Steinem"
-       },
-       {
-              "quote": "É o seu lugar no mundo; é a sua vida. Vá em frente e faça tudo o que puder com ele, e faça da vida que você deseja viver.",
-              "author": "Mae Jemison"
-       },
-       {
-              "quote": "Você pode ficar desapontado se falhar, mas estará condenado se não tentar.",
-              "author": "Beverly Sills"
-       },
-       {
-              "quote": "Lembre-se de que ninguém pode fazer você se sentir inferior sem o seu consentimento.",
-              "author": "Eleanor Roosevelt"
-       },
-       {
-              "quote": "A vida é o que fazemos, sempre foi, sempre será.",
-              "author": "Vovó Moses"
-       },
-       {
-              "quote": "A questão não é quem vai me deixar; é quem vai me parar.",
-              "author": "Ayn Rand"
-       },
-       {
-              "quote": "Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, não com ele.",
-              "author": "Henry Ford"
-       },
-       {
-              "quote": "Não são os anos da sua vida que contam. É a vida dos seus anos.",
-              "author": "Abraham Lincoln"
-       },
-       {
-              "quote": "Mude seus pensamentos e você muda seu mundo.",
-              "author": "Norman Vincent Peale"
-       },
-       {
-              "quote": "Escreva algo que valha a pena ler ou faça algo que valha a pena escrever.",
-              "author": "Benjamin Franklin"
-       },
-       {
-              "quote": "Nada é impossível, a própria palavra diz:Eu sou possível!",
-              "author": "Audrey Hepburn"
-       },
-       {
-              "quote": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
-              "author": "Steve Jobs"
-       },
-       {
-              "quote": "Se você pode sonhar, pode alcançá-lo.",
-              "author": "Zig Ziglar"
-       },
-       {
-              "quote": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias.",
-              "author": "Desconhecido"
-       },
-       {
-              "quote": "Não é o que você faz pelos seus filhos, mas o que você os ensinou a fazer por si mesmos, que os tornará seres humanos bem-sucedidos.",
-              "author": "Ann Landers"
-       },
-       {
-              "quote": "Se você deseja que seus filhos saiam bem, gaste o dobro do tempo com eles e metade do dinheiro.",
-              "author": "Abigail Van Buren"
-       },
-       {
-              "quote": "Crie seus próprios sonhos, ou alguém o contratará para construir os deles.",
-              "author": "Farrah Gray"
-       },
-       {
-              "quote": "As batalhas que contam não são as medalhas de ouro. As lutas dentro de si as batalhas invisíveis dentro de todos nós é onde está.",
-              "author": "Jesse Owens"
-       },
-       {
-              "quote": "A educação custa dinheiro. Mas também a ignorância.",
-              "author": "Sir Claus Moser"
-       },
-       {
-              "quote": "Aprendi ao longo dos anos que, quando se decide, isso diminui o medo.",
-              "author": "Rosa Parks"
-       },
-       {
-              "quote": "Não importa o quão lentamente você vá, desde que não pare.",
-              "author": "Confucius"
-       },
-       {
-              "quote": "Se você olhar para o que tem na vida, sempre terá mais. Se você olhar para o que não tem na vida, nunca terá o suficiente.",
-              "author": "Oprah Winfrey "
-       },
-       {
-              "quote": "Lembre-se de que não conseguir o que deseja às vezes é um maravilhoso golpe de sorte.",
-              "author": "Dalai Lama"
-       },
-       {
-              "quote": "Você não pode usar a criatividade. Quanto mais você usa, mais você tem.",
-              "author": "Maya Angelou"
-       },
-       {
-              "quote": "Sonhe alto e ouse falhar.",
-              "author": "Norman Vaughan"
-       },
-       {
-              "quote": "Nossas vidas começam a terminar no dia em que ficamos em silêncio sobre as coisas que importam.",
-              "author": "Martin Luther King Jr."
-       },
-       {
-              "quote": "Faça o que puder, onde estiver, com o que tiver.",
-              "author": "Teddy Roosevelt"
-       },
-       {
-              "quote": "Se você fizer o que sempre fez, obterá o que sempre conseguiu.",
-              "author": "Tony Robbins"
-       },
-       {
-              "quote": "Sonhar, afinal, é uma forma de planejamento.",
-              "author": "Gloria Steinem"
-       },
-       {
-              "quote": "É o seu lugar no mundo; é a sua vida. Vá em frente e faça tudo o que puder com ele, e faça da vida que você quer viver.",
-              "author": "Mae Jemison"
-       },
-       {
-              "quote": "Você pode ficar desapontado se falhar, mas está condenado se não tentar.",
-              "author": "Beverly Sills"
-       },
-       {
-              "quote": "Lembre-se de que ninguém pode fazer você se sentir inferior sem o seu consentimento.",
-              "author": "Eleanor Roosevelt"
-       },
-       {
-              "quote": "A vida é o que fazemos, sempre foi, sempre será.",
-              "author": "Grandma Moses"
-       },
-       {
-              "quote": "A questão não é quem vai me deixar; é quem vai me parar.",
-              "author": "Ayn Rand"
-       },
-       {
-              "quote": "Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, não com ele.",
-              "author": "Henry Ford"
-       },
-       {
-              "quote": "Não são os anos da sua vida que contam. São os anos da sua vida.",
-              "author": "Abraham Lincoln"
-       },
-       {
-              "quote": "Mude seus pensamentos e você muda seu mundo.",
-              "author": "Norman Vincent Peale"
-       },
-       {
-              "quote": "Escreva algo que valha a pena ler ou faça algo que valha a pena escrever.",
-              "author": "Benjamin Franklin"
-       },
-       {
-              "quote": "Nada é impossível, a própria palavra diz:Eu sou possível!",
-              "author": "Audrey Hepburn"
-       },
-       {
-              "quote": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
-              "author": "Steve Jobs"
-       },
-       {
-              "quote": "Se você pode sonhar, pode alcançá-lo.",
-              "author": "Zig Ziglar"
-       }
+[{
+		"quote": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias.",
+		"author": "Desconhecido"
+	},
+	{
+		"quote": "Não é o que você faz pelos seus filhos, mas o que você os ensinou a fazer por si mesmos, que os tornará seres humanos bem-sucedidos.",
+		"author": "Ann Landers"
+	},
+	{
+		"quote": "Se você deseja que seus filhos se saiam bem, gaste o dobro de tempo com eles e metade do dinheiro.",
+		"author": "Abigail Van Buren"
+	},
+	{
+		"quote": "Construa seus próprios sonhos, ou alguém o contratará para construir os deles.",
+		"author": "Farrah Gray"
+	},
+	{
+		"quote": "As batalhas que contam não são as medalhas de ouro. As lutas dentro de si as batalhas invisíveis dentro de todos nós é onde estão.",
+		"author": "Jesse Owens"
+	},
+	{
+		"quote": "A educação custa dinheiro. Mas o mesmo acontece com a ignorância.",
+		"author": "Sir Claus Moser"
+	},
+	{
+		"quote": "Aprendi ao longo dos anos que, quando se decide, isso diminui o medo.",
+		"author": "Rosa Parks"
+	},
+	{
+		"quote": "Não importa a velocidade com que você vai, desde que não pare.",
+		"author": "Confúcio"
+	},
+	{
+		"quote": "Se você olhar para o que tem na vida, sempre terá mais. Se você olhar para o que não tem na vida, nunca terá o suficiente.",
+		"author": "Oprah Winfrey"
+	},
+	{
+		"quote": "Lembre-se de que não conseguir o que deseja às vezes é um maravilhoso golpe de sorte.",
+		"author": "Dalai Lama"
+	},
+	{
+		"quote": "Você não pode usar a criatividade. Quanto mais você usa, mais você tem.",
+		"author": "Maya Angelou"
+	},
+	{
+		"quote": "Sonhe alto e ouse falhar.",
+		"author": "Norman Vaughan"
+	},
+	{
+		"quote": "Nossas vidas começam a terminar no dia em que ficamos em silêncio sobre as coisas que importam.",
+		"author": "Martin Luther King Jr."
+	},
+	{
+		"quote": "Faça o que puder, onde estiver, com o que tiver.",
+		"author": "Teddy Roosevelt"
+	},
+	{
+		"quote": "Se você fizer o que sempre fez, obterá o que sempre conseguiu",
+		"author": "Tony Robbins"
+	},
+	{
+		"quote": "Sonhar, afinal, é uma forma de planejamento.",
+		"author": "Gloria Steinem"
+	},
+	{
+		"quote": "É o seu lugar no mundo; é a sua vida. Vá em frente e faça tudo o que puder com ele, e faça da vida que você deseja viver.",
+		"author": "Mae Jemison"
+	},
+	{
+		"quote": "Você pode ficar desapontado se falhar, mas estará condenado se não tentar.",
+		"author": "Beverly Sills"
+	},
+	{
+		"quote": "Lembre-se de que ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+		"author": "Eleanor Roosevelt"
+	},
+	{
+		"quote": "A vida é o que fazemos, sempre foi, sempre será.",
+		"author": "Vovó Moses"
+	},
+	{
+		"quote": "A questão não é quem vai me deixar; é quem vai me parar.",
+		"author": "Ayn Rand"
+	},
+	{
+		"quote": "Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, não com ele.",
+		"author": "Henry Ford"
+	},
+	{
+		"quote": "Não são os anos da sua vida que contam. É a vida dos seus anos.",
+		"author": "Abraham Lincoln"
+	},
+	{
+		"quote": "Mude seus pensamentos e você muda seu mundo.",
+		"author": "Norman Vincent Peale"
+	},
+	{
+		"quote": "Escreva algo que valha a pena ler ou faça algo que valha a pena escrever.",
+		"author": "Benjamin Franklin"
+	},
+	{
+		"quote": "Nada é impossível, a própria palavra diz:Eu sou possível!",
+		"author": "Audrey Hepburn"
+	},
+	{
+		"quote": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+		"author": "Steve Jobs"
+	},
+	{
+		"quote": "Se você pode sonhar, pode alcançá-lo.",
+		"author": "Zig Ziglar"
+	},
+	{
+		"quote": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias.",
+		"author": "Desconhecido"
+	},
+	{
+		"quote": "Não é o que você faz pelos seus filhos, mas o que você os ensinou a fazer por si mesmos, que os tornará seres humanos bem-sucedidos.",
+		"author": "Ann Landers"
+	},
+	{
+		"quote": "Se você deseja que seus filhos saiam bem, gaste o dobro do tempo com eles e metade do dinheiro.",
+		"author": "Abigail Van Buren"
+	},
+	{
+		"quote": "Crie seus próprios sonhos, ou alguém o contratará para construir os deles.",
+		"author": "Farrah Gray"
+	},
+	{
+		"quote": "As batalhas que contam não são as medalhas de ouro. As lutas dentro de si as batalhas invisíveis dentro de todos nós é onde está.",
+		"author": "Jesse Owens"
+	},
+	{
+		"quote": "A educação custa dinheiro. Mas também a ignorância.",
+		"author": "Sir Claus Moser"
+	},
+	{
+		"quote": "Aprendi ao longo dos anos que, quando se decide, isso diminui o medo.",
+		"author": "Rosa Parks"
+	},
+	{
+		"quote": "Não importa o quão lentamente você vá, desde que não pare.",
+		"author": "Confucius"
+	},
+	{
+		"quote": "Se você olhar para o que tem na vida, sempre terá mais. Se você olhar para o que não tem na vida, nunca terá o suficiente.",
+		"author": "Oprah Winfrey "
+	},
+	{
+		"quote": "Lembre-se de que não conseguir o que deseja às vezes é um maravilhoso golpe de sorte.",
+		"author": "Dalai Lama"
+	},
+	{
+		"quote": "Você não pode usar a criatividade. Quanto mais você usa, mais você tem.",
+		"author": "Maya Angelou"
+	},
+	{
+		"quote": "Sonhe alto e ouse falhar.",
+		"author": "Norman Vaughan"
+	},
+	{
+		"quote": "Nossas vidas começam a terminar no dia em que ficamos em silêncio sobre as coisas que importam.",
+		"author": "Martin Luther King Jr."
+	},
+	{
+		"quote": "Faça o que puder, onde estiver, com o que tiver.",
+		"author": "Teddy Roosevelt"
+	},
+	{
+		"quote": "Se você fizer o que sempre fez, obterá o que sempre conseguiu.",
+		"author": "Tony Robbins"
+	},
+	{
+		"quote": "Sonhar, afinal, é uma forma de planejamento.",
+		"author": "Gloria Steinem"
+	},
+	{
+		"quote": "É o seu lugar no mundo; é a sua vida. Vá em frente e faça tudo o que puder com ele, e faça da vida que você quer viver.",
+		"author": "Mae Jemison"
+	},
+	{
+		"quote": "Você pode ficar desapontado se falhar, mas está condenado se não tentar.",
+		"author": "Beverly Sills"
+	},
+	{
+		"quote": "Lembre-se de que ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+		"author": "Eleanor Roosevelt"
+	},
+	{
+		"quote": "A vida é o que fazemos, sempre foi, sempre será.",
+		"author": "Grandma Moses"
+	},
+	{
+		"quote": "A questão não é quem vai me deixar; é quem vai me parar.",
+		"author": "Ayn Rand"
+	},
+	{
+		"quote": "Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, não com ele.",
+		"author": "Henry Ford"
+	},
+	{
+		"quote": "Não são os anos da sua vida que contam. São os anos da sua vida.",
+		"author": "Abraham Lincoln"
+	},
+	{
+		"quote": "Mude seus pensamentos e você muda seu mundo.",
+		"author": "Norman Vincent Peale"
+	},
+	{
+		"quote": "Escreva algo que valha a pena ler ou faça algo que valha a pena escrever.",
+		"author": "Benjamin Franklin"
+	},
+	{
+		"quote": "Nada é impossível, a própria palavra diz:Eu sou possível!",
+		"author": "Audrey Hepburn"
+	},
+	{
+		"quote": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+		"author": "Steve Jobs"
+	},
+	{
+		"quote": "Se você pode sonhar, pode alcançá-lo.",
+		"author": "Zig Ziglar"
+	},
+	{
+		"quote": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+		"author": "Robert Collier"
+	}, {
+		"quote": "A felicidade não é algo feito. Ela vem das suas próprias ações.",
+		"author": "Dalai Lama"
+	}, {
+		"quote": "Se você quiser ter sucesso, você precisa ser você mesmo, não o que os outros querem que você seja.",
+		"author": "Anonymous"
+	}, {
+		"quote": "A vida é um 10% do que acontece comigo e 90% de como eu reajo a isso.",
+		"author": "Charles Swindoll"
+	}, {
+		"quote": "O sucesso não é definitivo, o fracasso não é fatal: é a coragem de continuar que conta.",
+		"author": "Winston Churchill"
+	}, {
+		"quote": "Não importa quão devagar você vá, desde que você não pare.",
+		"author": "Confúcio"
+	}, {
+		"quote": "Acredite que você pode e você já está no meio do caminho.",
+		"author": "Theodore Roosevelt"
+	}, {
+		"quote": "O sucesso não é garantido, mas o fracasso é certo se você não tentar.",
+		"author": "Anonymous"
+	}, {
+		"quote": "O maior perigo para a maioria de nós não é que nossos objetivos sejam muito altos e falhemos, mas que sejam muito baixos e os alcancemos.",
+		"author": "Michelangelo"
+	}, {
+		"quote": "Não é o que você olha que importa, é o que você vê.",
+		"author": "Henry David Thoreau"
+	}
 ]
